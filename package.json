@@ -1,6 +1,6 @@
 {
   "name": "element-theme-tool",
-  "version": "2.0.1",
+  "version": "1.0.0",
   "description": "Theme generator cli tool for Element",
   "bin": {
     "element-theme": "./bin/element-theme",
@@ -27,9 +27,9 @@
     "vue",
     "theme",
     "cli"
-  ],
+      ],
   "bugs": {
-    "url": "https://github.com/ElementUI/element-theme/issues"
+    "url": "https://github.com/MrZhouZh/element-theme-tool/issues"
   },
   "engines": {
     "node": ">=0.12.0"
